@@ -1,2 +1,2 @@
 # Emojis
-Simple classfication of emojis, using machine learning.
+Simple cluster of emojis, using machine learning,deep learning.
